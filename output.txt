@@ -1,0 +1,15 @@
+========================================
+          ORDER RECEIPT SUMMARY         
+========================================
+Item Name: Mechanical Gaming Keyboard
+Quantity Ordered: 5 (2 box(es) and 1 loose item(s))
+Price per Unit: $89.99
+Has Membership: true
+----------------------------------------
+Subtotal: $449.95
+Tax (12%): $53.99
+Final Total: $503.94
+----------------------------------------
+Qualifies for Free Shipping? true
+Is this a bulk purchase? true
+========================================
